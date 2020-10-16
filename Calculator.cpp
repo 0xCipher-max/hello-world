@@ -19,7 +19,7 @@ int main()
             break;
 
         case '-':
-            cout << num+num2;
+            cout << num-num2;
             break;
 
         case '*':
@@ -27,7 +27,7 @@ int main()
             break;
 
         case '/':
-            cout >> num1/num2;
+            cout << num1/num2;
             break;
 
         default:
